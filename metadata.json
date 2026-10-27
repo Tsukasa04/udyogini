@@ -1,0 +1,8 @@
+{
+  "name": "Udyogini - Rural Women Digital & Business Hub",
+  "description": "Multilingual digital literacy, entrepreneurship training, practical business tools, and verified mentor network for women entrepreneurs in rural Maharashtra.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
